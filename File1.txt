@@ -1,3 +1,7 @@
+=========
+this is added from remote machine by second dev2
+=========
+
 creating file.txt from remote/origin
 adding a new line
 
